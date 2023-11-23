@@ -27,6 +27,8 @@ This is quite complicated. Binaries will **never** be distributed due to copyrig
 11. Press the Save All button on the top, press ... and select your DLL file again
 12. Press OK. If prompted, select Overwrite.
 
+## Disabling AC and running
+
 Great! Now we have built our Assembly-CSharp.dll file, we are ready to run it!
 Note: you may distribute this file at your own risk for ease of use. There are potential copyright concerns associated with this method, though.
 
