@@ -56,7 +56,7 @@ app.post('/GetServerInfo', (req, res) => {
     for(let i = 0; i < mocks.length; i++) {
         if(mocks[i].id === req.body.id) {
             res.json({
-                joinCode: '127.0.0.1:9700',
+                joinCode: '127.0.0.1:9701',
                 errorCode: null,
             })
             return;
